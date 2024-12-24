@@ -8,10 +8,10 @@
 
 Dynamic and results-driven Computer Engineering student with expertise in IoT application development, cloud-based solutions, and cutting-edge technologies such as computer vision, video analytics, and edge inference/ML. Proficient in Python, PowerShell, and AWS. Skilled in customer-facing roles, technical consulting, and delivering scalable solutions across industries, including manufacturing and railway safety.
 
-- 🔭 **Currently Working On:** A DevOps automation project with Kubernetes and Terraform.
+<!--- - 🔭 **Currently Working On:** A DevOps automation project with Kubernetes and Terraform. --->
 - 🌱 **Learning:** DSA with Java, System Design.
 - 🎓 **Certifications:** AWS, Docker, Kubernetes, Terraform, Python.
-- 🎯 **Goal:** To secure a top SDE or DevOps role and create innovative tech solutions.
+<!--- - 🎯 **Goal:** To secure a top SDE or DevOps role and create innovative tech solutions.    ----->
 - 💬 **Ask Me About:** Python, Django, IoT, and Cloud Computing.
 
 ---
