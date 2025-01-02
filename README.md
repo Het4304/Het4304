@@ -47,6 +47,10 @@ Dynamic and results-driven Computer Engineering student with expertise in IoT ap
 **Description:** Developed an edge inference system for real-time road safety analysis, utilizing machine learning algorithms to optimize the prioritization of road repairs. Integrated data-driven decision-making for community engagement and urban infrastructure management.
 - **Tech Stack:** Python, Data Manipulation, Machine Learning, Firebase, Flutter, Git.
 
+### 🎮 **[2048 Game Application](https://github.com/het4304/2048-game)**
+**Description:** Developed a Dockerized 2048 game application and deployed it on AWS Elastic Beanstalk. This project demonstrates containerization and cloud deployment practices.
+- **Tech Stack:** Docker, AWS Elastic Beanstalk.
+  
 ---
 <!--
 ## 📈 GitHub Stats
