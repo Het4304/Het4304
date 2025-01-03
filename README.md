@@ -11,7 +11,6 @@ Dynamic and results-driven Computer Engineering student with expertise in IoT ap
 <!--- - 🔭 **Currently Working On:** A DevOps automation project with Kubernetes and Terraform. --->
 - 🌱 **Learning:** DSA with Java, System Design.
 - 🎓 **Certifications:** AWS, Docker, Kubernetes, Terraform, Python.
-<!--- - 🎯 **Goal:** To secure a top SDE or DevOps role and create innovative tech solutions.    ----->
 - 💬 **Ask Me About:** Python, Django, IoT, and Cloud Computing.
 
 ---
