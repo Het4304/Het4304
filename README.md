@@ -27,7 +27,7 @@ Dynamic and results-driven Computer Engineering student with expertise in IoT ap
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ---
@@ -46,8 +46,8 @@ Dynamic and results-driven Computer Engineering student with expertise in IoT ap
 **Description:** Developed a Dockerized 2048 game application and deployed it on AWS Elastic Beanstalk. This project demonstrates containerization and cloud deployment practices.
 - **Tech Stack:** Docker, AWS Elastic Beanstalk.
 
-### 🧑🏻‍💻 **[Netflix clone Application](https://github.com/het4304/Netflix-clone)
-** Description:** The DevSecOps Netflix Clone Application combines secure development, containerization, orchestration, and monitoring to demonstrate the principles of DevSecOps. The project leverages AWS services, Kubernetes, and CI/CD pipelines to create a scalable and secure streaming platform.
+### 🧑🏻‍💻 **[Netflix clone Application](https://github.com/het4304/Netflix-clone)**
+**Description:** The DevSecOps Netflix Clone Application combines secure development, containerization, orchestration, and monitoring to demonstrate the principles of DevSecOps. The project leverages AWS services, Kubernetes, and CI/CD pipelines to create a scalable and secure streaming platform.
 - **Tech Stack:** Docker, Kubernetes (AWS EKS), Jenkins, SonarQube, Trivy, Prometheus, Grafana, ArgoCD, AWS (EKS, ELB).
 
 ---
