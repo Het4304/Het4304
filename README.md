@@ -38,10 +38,6 @@ Dynamic and results-driven Computer Engineering student with expertise in IoT ap
 **Description:** An IoT-based safety platform focusing on sensor integration, real-time data processing, and communication to enhance railway safety. The system enabled real-time monitoring and incident reporting for track safety and level crossing security.
 - **Tech Stack:** Python, Django, PHP, MySQL, IoT, Git.
 
-### 🎵 **[Emotion-Based Music Recommendation System](https://github.com/het4304/MUSIC_EMOTION)**
-**Description:** Designed a machine learning system to detect user emotions through camera images, recommending songs based on real-time emotion recognition. Integrated the Spotify API to provide personalized song recommendations, demonstrating expertise in AI and ML for user-centric applications.
-- **Tech Stack:** Python, Data Manipulation, Machine Learning, Streamlit, Git.
-
 ### 🎮 **[2048 Game Application](https://github.com/het4304/2048_Game)**
 **Description:** Developed a Dockerized 2048 game application and deployed it on AWS Elastic Beanstalk. This project demonstrates containerization and cloud deployment practices.
 - **Tech Stack:** Docker, AWS Elastic Beanstalk.
@@ -51,12 +47,11 @@ Dynamic and results-driven Computer Engineering student with expertise in IoT ap
 - **Tech Stack:** Docker, Kubernetes (AWS EKS), Jenkins, SonarQube, Trivy, Prometheus, Grafana, ArgoCD, AWS (EKS, ELB).
 
 ---
-<!--
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=het4304&show_icons=true&theme=radical)
 ![Your Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=het4304&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=het4304&layout=compact&theme=radical) ---->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=het4304&layout=compact&theme=radical)
 
 ---
 
