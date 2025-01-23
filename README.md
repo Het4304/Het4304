@@ -27,7 +27,6 @@ Dynamic and results-driven Computer Engineering student with expertise in IoT ap
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ---
@@ -47,11 +46,12 @@ Dynamic and results-driven Computer Engineering student with expertise in IoT ap
 - **Tech Stack:** Docker, Kubernetes (AWS EKS), Jenkins, SonarQube, Trivy, Prometheus, Grafana, ArgoCD, AWS (EKS, ELB).
 
 ---
+<!--- 
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=het4304&show_icons=true&theme=radical)
 ![Your Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=het4304&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=het4304&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=het4304&layout=compact&theme=radical) --->
 
 ---
 
