@@ -34,7 +34,7 @@ Dynamic and results-driven Computer Engineering student with expertise in IoT ap
 
 ## 📂 Featured Projects
 
-### 🔧 **[Railway Accident Prevention System](https://github.com/het4304/railway-safety)**
+### 🔧 **[Railway Accident Prevention System](https://github.com/het4304/pythakon_hackathon)**
 **Description:** An IoT-based safety platform focusing on sensor integration, real-time data processing, and communication to enhance railway safety. The system enabled real-time monitoring and incident reporting for track safety and level crossing security.
 - **Tech Stack:** Python, Django, PHP, MySQL, IoT, Git.
 
@@ -42,7 +42,7 @@ Dynamic and results-driven Computer Engineering student with expertise in IoT ap
 **Description:** Designed a machine learning system to detect user emotions through camera images, recommending songs based on real-time emotion recognition. Integrated the Spotify API to provide personalized song recommendations, demonstrating expertise in AI and ML for user-centric applications.
 - **Tech Stack:** Python, Data Manipulation, Machine Learning, Streamlit, Git.
 
-### 🎮 **[2048 Game Application](https://github.com/het4304/2048-game)**
+### 🎮 **[2048 Game Application](https://github.com/het4304/2048_Game)**
 **Description:** Developed a Dockerized 2048 game application and deployed it on AWS Elastic Beanstalk. This project demonstrates containerization and cloud deployment practices.
 - **Tech Stack:** Docker, AWS Elastic Beanstalk.
 
